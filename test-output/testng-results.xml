@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25939" started-at="2019-11-29T06:30:04Z" finished-at="2019-11-29T06:30:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25939" started-at="2019-11-29T06:30:04Z" finished-at="2019-11-29T06:30:30Z">
+      <class name="testscripts.HMScreatepatient">
+        <test-method status="PASS" signature="f()[pri:0, instance:testscripts.HMScreatepatient@1e88b3c]" name="f" duration-ms="25902" started-at="2019-11-29T12:00:04Z" finished-at="2019-11-29T12:00:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- testscripts.HMScreatepatient -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
